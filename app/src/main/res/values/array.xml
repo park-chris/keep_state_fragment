@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="book_list">
+        <item>역행자</item>
+        <item>인플레이션에서 살아남기</item>
+        <item>불편한 편의점</item>
+        <item>작별인사</item>
+        <item>기분을 관리하면 인생이 관리된다</item>
+        <item>눈물 한 방울</item>
+        <item>부를 재편하는 금융 대혁명</item>
+        <item>영어독립 365</item>
+        <item>유럽도시기행</item>
+        <item>기억력 천재 게으른 뇌를 깨워라</item>
+        <item>코끼리 같은 걱정 한입씩 먹어치우자</item>
+        <item>원피스</item>
+        <item>친밀한 이방인</item>
+        <item>나로서 충분히 괜찮은 사람</item>
+        <item>변화하는 세계 질서</item>
+        <item>나를 내려놓으니 내가 좋아졌다</item>
+        <item>세상의 마지막 기차역</item>
+        <item>백년허리</item>
+        <item>내가 틀릴 수도 있습니다</item>
+        <item>멘탈을 바꿔야 인생이 바뀐다</item>
+        <item>어서 오세요, 휴남동 서점입니다</item>
+        <item>당신은 결국 무엇이든 해내는 사람</item>
+        <item>저만치 혼자서</item>
+        <item>최재천의 공부</item>
+    </string-array>
+
+</resources>
